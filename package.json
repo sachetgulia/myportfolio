@@ -9,7 +9,7 @@
   },
   "author": "sachet",
   "license": "ISC",
-  "homepage": "sachetgulia.github.io/myportfolio",
+  "homepage": "sachetgulia.github.io/firstportfolio",
   "dependencies": {
     "gh-pages": "^3.1.0",
     "node-sass": "^5.0.0"
