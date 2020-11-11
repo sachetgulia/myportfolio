@@ -1,0 +1,17 @@
+{
+  "name": "modern_portfolio",
+  "version": "1.0.0",
+  "description": "hi",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o dist/css/ --recursive",
+    "deploy" :"gh-pages -d dist"
+  },
+  "author": "sachet",
+  "license": "ISC",
+  "homepage": "sachetgulia.github.io/myportfolio",
+  "dependencies": {
+    "gh-pages": "^3.1.0",
+    "node-sass": "^5.0.0"
+  }
+}
