@@ -102,7 +102,7 @@ body {
  Geneva, Verdana, sans-serif;
   line-height: 1.5; }
   body#bg-img {
-    background: url("images/2.jpg");
+    background: url("../images/2.jpg");
     background-attachment: fixed;
     background-size: cover; }
     body#bg-img .overlay {
